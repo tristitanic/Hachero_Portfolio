@@ -1,0 +1,27 @@
+img {
+    display: none;
+}
+
+header{
+    background-color: rgb(178,178,178);
+}
+
+header h1 {
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+.right h2 {
+    color: rgb(1, 5, 128);
+    text-transform: uppercase;
+}
+
+.right {
+    background-color: rgb(127,127,127);
+}
+
+nav a{
+    color: black;
+    background-color: rgb(197, 197, 197);
+}
+
